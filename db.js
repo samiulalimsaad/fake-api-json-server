@@ -1,12 +1,11 @@
-const todos = require("./data/todos");
-const videos = require("./data/videos");
-const videos2 = require("./data/videos2");
-const transactions = require("./data/transactions");
+const fs = require("fs");
+const files = fs.readdirSync(__dirname + "/data");
 
-module.exports = {
-  todos,
-  videos,
-  videos2,
-  transactions,
-}
+const filesObj = {};
 
+files.map((v) => {
+    const temp = v.replace(".json", "");
+    filesObj[temp] = require("./data/" + temp);
+});
+
+module.exports = filesObj;
