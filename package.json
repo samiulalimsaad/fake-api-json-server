@@ -1,0 +1,14 @@
+{
+    "name": "fake-api-json-server",
+    "description": "Example in memory api with json-server ",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "dependencies": {
+        "json-server": "^0.17.0"
+    }
+}
