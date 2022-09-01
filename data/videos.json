@@ -129,5 +129,182 @@
         ],
         "likes": 0,
         "unlikes": 0
+    },
+    {
+        "id": 8,
+        "title": "Occupant of anml-drn vehicle injured in collisn with same",
+        "description": "আপনারা যারা বিগিনার হিসেবে রিয়্যাক্ট জেস নিয়ে কাজ করা শুরু করেছেন, তারা রিয়্যাক্ট এর বেশ কিছু কনসেপ্ট ঠিক মতো আয়ত্ত না করতে পারার কারণে বিচিত্র কিছু সমস্যার সম্মুখীন হন এবং শেষ পর্যন্ত বুঝতে না পেরে হতাশ হয়ে পড়েন। তাদের জন্যই এই ভিডিওটি। এই ভিডিওতে আমি এমন ১০টি সমস্যার কথা তুলে ধরেছি যেগুলো বিগিনার হিসেবে আপনারা অহরহ সম্মুখীন হবেন। আশা করি ভিডিওটি দেখলে আপনাদের এই সমস্যাগুলো নিয়ে আর কনফিউশন থাকবেনা।",
+        "author": "Mash",
+        "avatar": "https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "date": "May 10, 2022",
+        "duration": "10:12",
+        "views": "2.1k",
+        "link": "https://www.youtube-nocookie.com/embed/6O4s7v28nlw",
+        "thumbnail": "https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "tags": [
+            "javascript",
+            "react",
+            "tips",
+            "EIFS"
+        ],
+        "likes": 12,
+        "unlikes": 7
+    },
+    {
+        "id": 9,
+        "title": "Corrosion of third degree of left forearm, initial encounter",
+        "description": "আমরা যখন Visual Studio Code Editor এ কাজ করি তখন অহরহ ব্যবহৃত কোড ব্লক গুলো আমাদের কে বারবার টাইপ করতে হয় এবং সামগ্রিকভাবে চিন্তা করলে এরকম ছোট ছোট ম্যনুয়াল কাজ আমাদের productivity অনেকাংশেই কমিয়ে দেয়। VS Code এর বিল্ট ইন ইউজার স্নিপেট ফিচারের মাধ্যমে আমরা কমন কাজগুলো স্নিপেট আকারে সাজিয়ে রেখে দিতে পারি এবং শর্টকাট কমান্ডের মাধ্যমে বড় বড় কোড ব্লক গুলো নিয়ে আসতে পারি। এই ভিডিওতে আপনারা এটাই জানতে পারবেন যে কিভাবে আমরা Visual Studio Code Editor এ কাস্টম স্নিপেট লিখতে পারি।",
+        "author": "Don",
+        "avatar": "https://images.pexels.com/photos/1983032/pexels-photo-1983032.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "date": "April 25, 2022",
+        "duration": "10:12",
+        "views": "2.1k",
+        "link": "https://www.youtube-nocookie.com/embed/N-U6AVcIPy4",
+        "thumbnail": "https://images.pexels.com/photos/1983032/pexels-photo-1983032.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "tags": [
+            "vscode",
+            "Control"
+        ],
+        "likes": 4,
+        "unlikes": 3
+    },
+    {
+        "id": 10,
+        "title": "Occup of bus injured in collision w hv veh in traf",
+        "description": "Tailwind CSS v3.0 came with incredible performance gains, huge workflow improvements, and a seriously ridiculous number of new features. In this tutorial - I have tried to explain different new features of Tailwind CSS version 3, how to install tailwind css 3, how to upgrade from tailwind v2 to v3 etc.",
+        "author": "Mash",
+        "avatar": "https://images.pexels.com/photos/167843/milky-way-rocks-night-landscape-167843.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "date": "March 11, 2022",
+        "duration": "10:12",
+        "views": "2.1k",
+        "link": "https://www.youtube-nocookie.com/embed/4M7D3O2XX4o",
+        "thumbnail": "https://images.pexels.com/photos/167843/milky-way-rocks-night-landscape-167843.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "tags": [
+            "tailwind",
+            "css",
+            "Termite"
+        ],
+        "likes": 0,
+        "unlikes": 0
+    },
+    {
+        "id": 11,
+        "title": "Contact with sword or dagger, initial encounter",
+        "description": "In this video, I have explained about the debounce function in JavaScript. This is a common question interviewers ask at Job Interviews. If you watch this video carefully, you will understand what is debounce and how to handle it with custom debounce function.",
+        "author": "Gerianne Creer",
+        "avatar": "https://images.pexels.com/photos/39561/solar-flare-sun-eruption-energy-39561.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "date": "Jan 06, 2022",
+        "duration": "10:12",
+        "views": "2.1k",
+        "link": "https://www.youtube-nocookie.com/embed/dD9O8DnIBj4",
+        "thumbnail": "https://images.pexels.com/photos/39561/solar-flare-sun-eruption-energy-39561.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "tags": [
+            "debounce",
+            "javascript",
+            "tips",
+            "EIFS"
+        ],
+        "likes": 0,
+        "unlikes": 0
+    },
+    {
+        "id": 12,
+        "title": "Contusion of left little finger with damage to nail, sequela",
+        "description": "In this video, I have given a high level overview of popular CSS Pre-processor SASS which helps us managing our styles at scale. If you have a basic understanding of CSS & JavaScript, this 10 mins SASS Tutorial will help you getting started with SASS.",
+        "author": "Sakib",
+        "avatar": "https://images.pexels.com/photos/33688/delicate-arch-night-stars-landscape.jpg?auto=compress&cs=tinysrgb&w=600",
+        "date": "Nov 22, 2021",
+        "duration": "10:12",
+        "views": "2.1k",
+        "link": "https://www.youtube-nocookie.com/embed/4tV1Mfi4fMA",
+        "thumbnail": "https://images.pexels.com/photos/33688/delicate-arch-night-stars-landscape.jpg?auto=compress&cs=tinysrgb&w=600",
+        "tags": [
+            "sass",
+            "css",
+            "ui",
+            "Construction"
+        ],
+        "likes": 0,
+        "unlikes": 0
+    },
+    {
+        "id": 13,
+        "title": "Toxic effect of gases, fumes and vapors, assault, sequela",
+        "description": "In this React Router DOM v6 Bangla tutorial, you will learn how to install react router dom 6, what are the breaking changes in react router 6, difference between react router 6 vs 5, how to upgrade from react router v5 to react router v6. ",
+        "author": "Alvie",
+        "avatar": "https://images.pexels.com/photos/1169754/pexels-photo-1169754.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "date": "Nov 08, 2021",
+        "duration": "10:12",
+        "views": "2.1k",
+        "link": "https://www.youtube-nocookie.com/embed/34tjWL9wi4g",
+        "thumbnail": "https://images.pexels.com/photos/1169754/pexels-photo-1169754.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "tags": [
+            "react",
+            "router",
+            "javascript",
+            "Termite"
+        ],
+        "likes": 0,
+        "unlikes": 0
+    },
+    {
+        "id": 14,
+        "title": "Encounter for screening for osteoporosis",
+        "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+        "author": "Tanhya Purdy",
+        "avatar": "https://images.pexels.com/photos/2078126/pexels-photo-2078126.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "date": "Oct 15, 2021",
+        "duration": "10:12",
+        "views": "2.1k",
+        "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
+        "thumbnail": "https://images.pexels.com/photos/2078126/pexels-photo-2078126.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "tags": [
+            "tailwind",
+            "css",
+            "ui",
+            "Construction"
+        ],
+        "likes": 0,
+        "unlikes": 0
+    },
+    {
+        "id": 15,
+        "title": "Garage of reform school as place",
+        "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+        "author": "Ebbens",
+        "avatar": "https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "date": "Oct 15, 2021",
+        "duration": "10:12",
+        "views": "2.1k",
+        "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
+        "thumbnail": "https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "tags": [
+            "tailwind",
+            "css",
+            "ui",
+            "Fencing"
+        ],
+        "likes": 0,
+        "unlikes": 0
+    },
+    {
+        "id": 16,
+        "title": "Perinatal hematological disorder, unspecified",
+        "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+        "author": "Alvie",
+        "avatar": "https://images.pexels.com/photos/956999/milky-way-starry-sky-night-sky-star-956999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1f",
+        "date": "Oct 15, 2021",
+        "duration": "10:12",
+        "views": "2.1k",
+        "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
+        "thumbnail": "https://images.pexels.com/photos/956999/milky-way-starry-sky-night-sky-star-956999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1f",
+        "tags": [
+            "tailwind",
+            "css",
+            "ui",
+            "Fencing"
+        ],
+        "likes": 0,
+        "unlikes": 0
     }
 ]
